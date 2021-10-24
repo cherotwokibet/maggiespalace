@@ -5,7 +5,7 @@ Ordering isn't functional since it was built for learning purposes.
 
 
 ## Live Site
-View page https://burgerduka.netlify.app/
+View page https://maggiespalace.netlify.app/
 
 
 ## Technologies Used
